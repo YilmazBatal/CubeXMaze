@@ -4,7 +4,7 @@ My very first game in late 2021
 This game is my very first game to learn unity engine. I did it when i was in high school in late 2021.
 
 # System Requirements
-1. Patato PC (literally anything can run this game)
+1. Potato PC (literally anything can run this game)
 
 # How to try the game?
 1. Download Zip/Rar.
